@@ -1,3 +1,3 @@
 # FoodSearchApp
 
-Check it out: yummyeat.netlify.app
+Check it out: https://yummyeat.netlify.app/
